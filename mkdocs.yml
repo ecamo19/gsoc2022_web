@@ -1,5 +1,13 @@
-site_name: GSoC
+site_name: PEcAn GSoC 2022
 site_url: https://ecamo19.github.io/gsoc2022_web/
 
 theme:
   name: material
+  features:
+    - content.tabs.link
+  
+markdown_extensions:
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
