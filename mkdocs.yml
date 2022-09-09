@@ -1,2 +1,5 @@
 site_name: My Docs
 site_url: https://ecamo19.github.io/gsoc2022_web/
+
+theme:
+  name: material
