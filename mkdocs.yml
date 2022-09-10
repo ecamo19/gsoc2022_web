@@ -1,13 +1,14 @@
-site_name: PEcAn GSoC 2022
+site_name: Welcome to Erick's PEcAn GSoC project 
 site_url: https://ecamo19.github.io/gsoc2022_web/
 
 theme:
-  favicon: images/png.favicon
+  logo: images/favicon2.png
+  favicon: images/favicon3.png
   name: material
   features:
     - content.tabs.link
   palette: 
-     primary: indigo
+     primary: green
      accent: red
      
   
@@ -16,3 +17,11 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
