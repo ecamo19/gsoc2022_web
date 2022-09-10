@@ -6,27 +6,42 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ecamo19.github.io/gsoc2022_web/My%20experice%20with%20PEcAn/</loc>
+         <lastmod>2022-09-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ecamo19.github.io/gsoc2022_web/Project%27s%20Tasks/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ecamo19.github.io/gsoc2022_web/Getting%20Start%20with%20PEcAn%27s%20Models/Code/Code%20for%20running%20BIOCRO%20model/</loc>
+         <loc>https://ecamo19.github.io/gsoc2022_web/Getting%20started%20with%20PEcAn%27s%20models/About%20this%20section/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ecamo19.github.io/gsoc2022_web/Getting%20Start%20with%20PEcAn%27s%20Models/Code/Code%20for%20running%20SIPNET%20model/</loc>
+         <loc>https://ecamo19.github.io/gsoc2022_web/Getting%20started%20with%20PEcAn%27s%20models/biocro.Rscript%20binary/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ecamo19.github.io/gsoc2022_web/Getting%20Start%20with%20PEcAn%27s%20Models/Model%20configuration/Basic_BIOCRO_model/</loc>
+         <loc>https://ecamo19.github.io/gsoc2022_web/Getting%20started%20with%20PEcAn%27s%20models/Code/Code%20for%20running%20BIOCRO%20model/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ecamo19.github.io/gsoc2022_web/Getting%20Start%20with%20PEcAn%27s%20Models/Model%20configuration/Basic_SIPNET%20model/</loc>
+         <loc>https://ecamo19.github.io/gsoc2022_web/Getting%20started%20with%20PEcAn%27s%20models/Code/Code%20for%20running%20SIPNET%20model/</loc>
+         <lastmod>2022-09-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ecamo19.github.io/gsoc2022_web/Getting%20started%20with%20PEcAn%27s%20models/Model%20configuration/Basic_BIOCRO_model/</loc>
+         <lastmod>2022-09-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ecamo19.github.io/gsoc2022_web/Getting%20started%20with%20PEcAn%27s%20models/Model%20configuration/Basic_SIPNET%20model/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
