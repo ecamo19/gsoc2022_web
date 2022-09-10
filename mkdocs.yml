@@ -2,9 +2,14 @@ site_name: PEcAn GSoC 2022
 site_url: https://ecamo19.github.io/gsoc2022_web/
 
 theme:
+  favicon: images/png.favicon
   name: material
   features:
     - content.tabs.link
+  palette: 
+     primary: indigo
+     accent: red
+     
   
 markdown_extensions:
   - attr_list
