@@ -6,12 +6,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ecamo19.github.io/gsoc2022_web/Main%20Tasks/</loc>
+         <loc>https://ecamo19.github.io/gsoc2022_web/Project%27s%20Tasks/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ecamo19.github.io/gsoc2022_web/Getting%20Starting%20with%20PEcAn%27s%20Models/xml%20models%20configuration/</loc>
+         <loc>https://ecamo19.github.io/gsoc2022_web/Getting%20Start%20with%20PEcAn%27s%20Models/Code/Code%20for%20running%20BIOCRO%20model/</loc>
+         <lastmod>2022-09-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ecamo19.github.io/gsoc2022_web/Getting%20Start%20with%20PEcAn%27s%20Models/Code/Code%20for%20running%20SIPNET%20model/</loc>
+         <lastmod>2022-09-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ecamo19.github.io/gsoc2022_web/Getting%20Start%20with%20PEcAn%27s%20Models/Model%20configuration/Basic_BIOCRO_model/</loc>
+         <lastmod>2022-09-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ecamo19.github.io/gsoc2022_web/Getting%20Start%20with%20PEcAn%27s%20Models/Model%20configuration/Basic_SIPNET%20model/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
