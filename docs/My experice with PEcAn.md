@@ -4,9 +4,9 @@ Since day one I found a welcoming developer community ready to help with any que
 
 __Main challenges faced__
 
-One of the challenges that I encounter was the the installation of [PEcAn](https://github.com/PecanProject/pecan). Currently, there are [four ways to install PEcAn](https://pecanproject.github.io/pecan-documentation/develop/pecan-manual-setup.html). Via _Docker, r-universe, local installation and virtual machine (VM)_. Of all these the only one that worked for me was the VM, which was easy to install but it lack certain capabilities like having sudo access to install new packages.    
+One of the challenges that I encounter was the the installation of [PEcAn](https://github.com/PecanProject/pecan). Currently, there are [four ways to install PEcAn](https://pecanproject.github.io/pecan-documentation/develop/pecan-manual-setup.html). Via _Docker, r-universe, local installation and virtual machine (VM)_. Of all of these the only one that worked for me was the VM, which was easy to install but it lack certain capabilities like having sudo access to install new packages.    
 
-Another major challenge that I faced was understanding how to configure the xml files for running [PEcAn's models](http://isda.ncsa.illinois.edu/~kooper/PEcAn/book/models/). Unfortunately, I couldn't figure out this quickly and it took me a lot of time to obtain the data outputs required for the development of the project. 
+Another major challenge that I faced was understanding how to configure the xml files for running [PEcAn's models](http://isda.ncsa.illinois.edu/~kooper/PEcAn/book/models/). Unfortunately, I couldn't figure out this quickly and it took me a lot of time obtaining the data outputs required for the development of the project. 
 
 __Feedback to the organization__
 
@@ -14,7 +14,7 @@ From my perspective, something that could speed up development is having a PEcAn
 
 __Final take__
 
-Working with PEcAn was a challenging but regarding experience that tough me how an organization with many collaborators work which I think will help me to develop and good scientific career. 
+Working with PEcAn was a challenging but rewarding experience that tough me how an organization with many collaborators work which I think will help me to develop and good scientific career. 
 
 
 
