@@ -6,10 +6,13 @@
 
 
  __Mentors:__ 
+
  Michael Dietze, Boston University
+
  Alexis Helgeson, Boston University
 
 __Contributor:__
+
  Erick Calderon-Morales
  
 __email:__ erickcamo19@gmail.com 

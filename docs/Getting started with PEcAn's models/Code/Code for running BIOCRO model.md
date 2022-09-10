@@ -13,7 +13,7 @@ setwd('/home/carya')
 getwd()
 
 # Read settings file -----------------------------------------------------------
-settings <- PEcAn.settings::read.settings("./gsoc_project_2022_vm/xml_files/simple_biocro.xml")
+settings <- PEcAn.settings::read.settings("basic_biocro_model.xml")
 
 
 # PEcAn Workflow ---------------------------------------------------------------

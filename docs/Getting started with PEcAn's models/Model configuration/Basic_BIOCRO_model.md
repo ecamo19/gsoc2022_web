@@ -10,7 +10,7 @@
       <dbname>bety</dbname>
       <write>TRUE</write>
     </bety>
-    <dbfiles>/home/carya/gsoc_project_2022/pecan_runs/pecan_run_salix/dbfiles</dbfiles>
+    <dbfiles>/data/dbfiles</dbfiles>
   </database>
 
   <workflow>
@@ -62,7 +62,7 @@
   
   <model>
     <id>7</id>
-    <binary>~/gsoc_project_2022/models/biocro.Rscript</binary>
+    <binary>~/models/biocro.Rscript</binary>
     <revision>0.95</revision>
   </model>
   
@@ -76,22 +76,8 @@
       </site.pft>
     </site>
     
-    <inputs>
-      <met>
-          <output>~/gsoc_project_2022/pecan_runs/pecan_run_salix/run/</output>
-          <path>~/gsoc_project_2022/data/US.Bo1</path>        
-      </met>
-      
-      <!--soil-->
-      <veg>
-        <output>~/gsoc_project_2022/pecan_runs/pecan_run_salix/run/</output>
-        <path>~/gsoc_project_2022/data/hwsd.nc</path>
-      </veg> 
-      
-    </inputs>
-    
-    <start.date>2008/01/01</start.date>
-    <end.date> 2008/12/31</end.date>
+    <start.date>2004/01/01</start.date>
+    <end.date> 2004/12/31</end.date>
     
     <host>
       <name>localhost</name>
