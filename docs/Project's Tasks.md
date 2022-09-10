@@ -7,4 +7,4 @@
 
 - [ ] With those first 3 tasks in place you should be well-positioned at a higher-level to work on generating the Sobol designs and postprocessing the outputs.
 
-[Github issue list](https://github.com/ecamo19/gsoc_project_2022_vm/issues){ .md-button .md-button--primary }
+[Work done](https://github.com/ecamo19/gsoc_project_2022_vm/issues){ .md-button .md-button--primary }

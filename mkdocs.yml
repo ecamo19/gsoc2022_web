@@ -9,7 +9,7 @@ theme:
     - content.tabs.link
   palette: 
      primary: green
-     accent: red
+     accent: blue
      
   
 markdown_extensions:

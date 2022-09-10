@@ -1,14 +1,18 @@
-
-[Code Availability](https://github.com/ecamo19/gsoc_project_2022_vm){ .md-button .md-button--primary }
+# 
 
 # __[Sobol Variance Partitioning Implementation for PEcAn’s uncertainty module](https://summerofcode.withgoogle.com/programs/2022/projects/FzRn47Nh)__
 
+[Code Availability](https://github.com/ecamo19/gsoc_project_2022_vm){ .md-button .md-button--primary }
+
+
  __Mentors:__ 
-* Michael Dietze, Boston University
-* Alexis Helgeson, Boston University
+ Michael Dietze, Boston University
+ Alexis Helgeson, Boston University
 
 __Contributor:__
-* Erick Calderon-Morales 
+ Erick Calderon-Morales
+ 
+__email:__ erickcamo19@gmail.com 
 
 # Project's Description
 
